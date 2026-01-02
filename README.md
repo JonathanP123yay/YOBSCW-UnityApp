@@ -7,10 +7,10 @@ The app is designed to run on Meta Quest headsets and stream real-time positiona
 ## Links
 
 **OBS**  
-https://obsproject.org
+[OBS Download + Website](https://obsproject.com/)
 
 **YOBSCW (Main Project)**  
-https://github.com/JonathanP123yay/Yeeps-Obs-Webcam
+[YOBSCW repo](https://github.com/JonathanP123yay/Yeeps-Obs-Webcam)
 
 ## What this Unity app does
 - Reads headset position and rotation
